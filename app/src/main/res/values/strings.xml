@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Tour Guide App (Egypt)</string>
+
+    <string name="historicalPlaces">Historical Places</string>
+    <string name="FoodStreets">Food</string>
+    <string name="ShoppingPlaces">Shopping Places</string>
+    <string name="Hotels">Hotels</string>
+
+    <string name="Hotel1">SteigenBerger</string>
+    <string name="Hotel2">Hilton</string>
+    <string name="Hotel3">FourSeason</string>
+
+    <string name="Food1">McDonalds</string>
+    <string name="Food2">kilokbab</string>
+    <string name="Food3">KFC</string>
+
+    <string name="HistoricalPlace1">Pyramids</string>
+    <string name="HistoricalPlace2">KarnakTemple</string>
+    <string name="HistoricalPlace3">AbuSimbel</string>
+
+    <string name="Mall1">CFCMall</string>
+    <string name="Mall2">MallOfEgypt</string>
+    <string name="Mall3">CityCentreMall</string>
+
+
+    <string name="SteigenBergerInfo">The luxurious ambience of the Steigenberger El Tahrir will have you feeling at ease from the moment you arrive. Phone: 02 25750777  Address: Qasr El Nil, Cairo</string>
+    <string name="HiltonInfo">Hilton Hotels , Resorts is Hilton flagship brand and one of the largest hotel brands in the world.The brand is targeted at both business and leisure travelers with locations in major city centers, near airports, convention centers, and popular vacation destinations around the world. Phone: 02 22677740 Address: El Shaheed Sayed Zakaria, Sheraton Al Matar, El Nozha, Cairo Governorate 11736</string>
+    <string name="FourSeasonInfo">Four Seasons Hotels Limited, trading as Four Seasons Hotels and Resorts, is an international luxury hotel and resort company headquartered in Toronto, Ontario, Canada. Four Seasons operates more than 100 hotels and resorts worldwide. Address: 1089 Nile Corniche, El Nil, Cairo Governorate 11519</string>
+
+    <string name="McDonaldsInfo">McDonald Corporation is an American fast food company, founded in 1940 as a restaurant operated by Richard and Maurice McDonald, in San Bernardino, California, United States. They rechristened their business as a hamburger stand, and later turned the company into a franchise, with the Golden Arches logo being introduced in 1953 at a location in Phoenix, Arizona. Hotline : 19991</string>
+    <string name="kilokbabInfo">Oriental Egyptian Food like kbab,Kofta,Hawawshy,SheshTawook Address:Inside the food court in Mall of Egypt</string>
+    <string name="kfcInfo">KFC was founded by Colonel Harland Sanders, an entrepreneur who began selling fried chicken from his roadside restaurant in Corbin, Kentucky, during the Great Depression. Sanders identified the potential of the restaurant franchising concept, and the first (Kentucky Fried Chicken) franchise opened in Utah in 1952. Egypt Hotline : 19019</string>
+    <string name="pyramidshistoricalInfo">The Egyptian pyramids are ancient pyramid-shaped masonry structures located in Egypt. The most famous Egyptian pyramids are those found at Giza, on the outskirts of Cairo. Several of the Giza pyramids are counted among the largest structures ever built. The Pyramid of Khufu is the largest Egyptian pyramid. It is the only one of the Seven Wonders of the Ancient World still in existence.</string>
+    <string name="karnaktemplehistoricalInfo">The complex is a vast open site and includes the Karnak Open Air Museum. It is believed to be the second most visited historical site in Egypt; only the Giza Pyramids near Cairo receive more visits. It consists of four main parts, of which only the largest is currently open to the general public. The term Karnak often is understood as being the Precinct of Amun-Re only, because this is the only part most visitors see.</string>
+    <string name="abusimbelhistorical">The Abu Simbel temples are two massive rock temples at Abu Simbel a village in Aswan Governorate, Upper Egypt, near the border with Sudan. They are situated on the western bank of Lake Nasser, about 230 km (140 mi) southwest of Aswan (about 300 km (190 mi) by road). The complex is part of the UNESCO World Heritage Site known as the Nubian Monuments which run from Abu Simbel downriver to Philae (near Aswan).</string>
+    <string name="cfcMallInfo">Cairo Festival City, an Al-Futtaim Group Real Estate (UAE) development, is a mixed-use urban community located east of the ring road in New Cairo, Egypt, and north of 90 St. The development extends over a land area of some 3 million sq. m (700 acres) and comprises residential villas, apartments, business districts, a shopping mall, international schools, automotive parks, and office spaces. Its currently the biggest shopping mall in New Cairo.</string>
+    <string name="mallOfEgyptInfo">Mall of Egypt is a shopping mall in Cairo, Egypt, owned and operated by the Majid Al Futtaim Group, located on Wahat Road. The mall houses major department stores, fashion, lifestyle, sports, electronics, home furnishing outlets.</string>
+    <string name="cityCentreMallInfo">City Centre Maadi is located on the Katameya highway in Cairo, Egypt, where it opened in December 2002. It is developed and managed by Majid Al Futtaim Properties. Home to over 86 retail stores.</string>
+
+</resources>
